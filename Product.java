@@ -33,4 +33,6 @@
          this.name = name;
          this.salary = salary;
      }
+     // This is new branch
+
  }
